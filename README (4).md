@@ -10,4 +10,4 @@ The dataset used in this project is the **Food 101** dataset, available from Kag
 
 The dataset has 75,000+ images for training, and, 15,000+ images for testing purposes.
 
-Dataset Link: [Kaggle Dataset](https://www.kaggle.com/datasets/dansbecker/food-101)
+Dataset Link:(https://www.kaggle.com/datasets/dansbecker/food-101)
